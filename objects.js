@@ -1,1 +1,4 @@
-var playlist = new Object();
+var playlist = {
+  some:"some"
+}
+
